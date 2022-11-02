@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(117, 226, 7);
+}
+
+
+.navigation{
+    height: 65px;
+    background-color: black;
+}
+
+.navigation h1{
+    text-align: center;
+    color: aqua;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 35px;
+}
+
+.main{
+    padding: 10px;
+}
+
+.html img{
+    width: 20%;
+    border-radius: 18px;
+}
+
+.html{
+    display: flex;
+    align-items: center;
+    border: 5px solid brown;
+    border-radius: 20px;
+    color: aqua;
+    background-color: black;
+}
+
+.pop{
+    padding: 0 10px;
+}
+
+.pop h1{
+    text-align: center;
+}
+
+.pop p{
+    font-size: 30px;
+}
+
+.pop span{
+    color: rgb(255, 0, 157);
+}
+
+.pop a{
+    text-decoration-line: underline;
+    color: rgb(247, 14, 188);
+    padding: 10px;
+    background-color: bisque;
+    border-radius: 20px;
+}
